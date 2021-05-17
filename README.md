@@ -37,6 +37,10 @@ required named arguments:
                         Input font file
 ```
 
+## Limitations
+
+**Some fonts can't be processed, such as Webdings or Symbols.**
+
 ## Also
 
 Check out [already generated character maps](maps)
