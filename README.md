@@ -2,7 +2,7 @@
 
 Lightweight python 3 script used to output all characters supported by a font into text file or console output. One of the usages is to get supported font characters for Unity's TextMesh Pro font asset generation. 
 
-Bonus: [pre-generated maps of popular fonts](maps/readme.md)
+Bonus: [pre-generated maps of popular fonts](maps)
 
 ## Requirements
 
@@ -39,4 +39,4 @@ required named arguments:
 
 ## Also
 
-Check out [already generated character maps](maps/readme.md)
+Check out [already generated character maps](maps)
